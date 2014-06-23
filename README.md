@@ -14,7 +14,9 @@ Working
     Enter parameters {key1:value,key2:value} - {id:facebook-id,access_token:access_token_facebook}
     Enter Type of Response - string 
     Enter Response - 1 - new user created,2- user already exists
-    
+    .
+    .
+    .
 
 A documentation will be created in your django project folder    
 
